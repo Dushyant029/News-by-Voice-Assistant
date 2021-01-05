@@ -14,6 +14,6 @@ This is a simple News Reading Voice-Assistant WebApp. It is a revolutionary spee
 
 Before running the app go on to [ALAN AI](https://alan.app/) website login over there to fetch the API Key.
 
-Setup:
+### Setup:
 
 run npm i && npm start to start development server
