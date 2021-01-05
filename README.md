@@ -12,7 +12,7 @@ This is a simple News Reading Voice-Assistant WebApp. It is a revolutionary spee
 
 ## Note
 
-Before running the app go on to ALAN AI website login over there to fetch the API Key.
+Before running the app go on to [ALAN AI](https://alan.app/) website login over there to fetch the API Key.
 
 Setup:
 
